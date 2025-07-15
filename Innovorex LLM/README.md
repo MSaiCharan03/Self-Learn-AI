@@ -39,7 +39,7 @@ A scalable, modular, and self-improving Large Language Model (LLM) platform feat
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/self-learning-llm-platform.git
+git clone https://github.com/MSaiCharan03/self-learning-llm-platform.git
 cd self-learning-llm-platform
 ```
 
